@@ -1,0 +1,71 @@
+/* Google resmini ortalama */
+.center {
+    text-align: center;
+}
+
+/* Arama motoru --panel özellikler */
+.panel{
+    background-color:#eee9e9;
+    text-align: center;
+    margin-left:45px ;
+    margin-right:45px ;
+    width:auto;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.panel button{
+    background-color: #eee9e9;
+    font-size: 13,5px;
+    border-color: #5c5a5a;
+}
+
+.all-box {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left:45px ;
+    margin-right:45px ;
+    font-size: 15px;
+}
+
+/* ilk link kutusu için özellikler */
+.first-box {
+    text-align: center;
+    background-color: #7EE5DA;
+    width:60%;
+    margin: 0px 2px;
+    
+}
+
+/* Link renkleri için class  */
+.link-purple {
+    color: rgb(96, 6, 119);
+}
+
+.link-blue {
+    color: #0000EE;
+}
+
+
+.second-box {
+    text-align: center;
+    background-color: #70CCC2;
+    width:60%;
+    margin: 0px 2px;
+    
+}
+
+.third-box {
+    text-align: center;
+    background-color: #62B3AA;
+    width:60%;
+    margin: 0px 2px;
+    
+}
+
+.copyrights{
+    font-size: smaller;
+    text-align: center;
+}
